@@ -7,25 +7,25 @@ git help [comando]
 
 git clone [link]
 
-git init                                                            inicializa um novo repositório
+git init  -> inicializa um novo repositório
 
-git add .                                                           adiciona os arquivos atuais ao próximo commit
+git add . -> adiciona os arquivos atuais ao próximo commit
 
-git status                                                          verificar o status atual dos repositórios git
+git status  -> verificar o status atual dos repositórios git
 
-git commit -m "mensagem do commit"                                  cria um novo commit com um mensagem
+git commit -m "mensagem do commit"  ->  cria um novo commit com um mensagem
 
-git push                                                            envia as atualizações para uma nuvem na branch atualmente ativa
+git push ->  envia as atualizações para uma nuvem na branch atualmente ativa
 
-git branch                                                          permite listar e ver qual branch está ativa atualmente
+git branch ->  permite listar e ver qual branch está ativa atualmente
 
-git checkout nome-da-branch                                         permite mudar para uma nova branch
+git checkout nome-da-branch  ->   permite mudar para uma nova branch
 
-git checkout -b "nome da branch de origem" "nome da nova branch"    permite mudar e criar uma nova branch com base em outra
+git checkout -b "nome da branch de origem" "nome da nova branch" -> permite mudar e criar uma nova branch com base em outra
 
-git merge "branch a receber merge"                                  permite fazer o merge da branch ativa atualmente com outra branch
+git merge "branch a receber merge"  ->  permite fazer o merge da branch ativa atualmente com outra branch
 
-git pull                                                            atualiza a branch atualmente ativa
+git pull  -> atualiza a branch atualmente ativa
 
 ### Link
 
